@@ -62,8 +62,7 @@ async def help_handler(message: types.Message) -> None:
         "Commands available:\n"
         "/start - Start the bot\n"
         "/help - Get help\n"
-        "/brawlify - View statistics\n"
-        "/brawltimeninja - View statistics"
+        "/brawlify - View statistics"
     )
 
 
