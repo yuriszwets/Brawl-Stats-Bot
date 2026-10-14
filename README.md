@@ -46,7 +46,7 @@ Built with [aiogram 3](https://docs.aiogram.dev/) and aiohttp.
 ## Project structure
 
 ```
-bot.py             # handlers and startup
+main.py             # handlers and startup
 requirements.txt
 .env.example
 ```
